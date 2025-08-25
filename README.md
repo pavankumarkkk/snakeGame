@@ -11,8 +11,11 @@ The player controls a snake that grows longer when it eats food. The game ends i
 - Responsive controls using arrow keys.
 
 # Screenshots
+Game Start
 ![image alt](https://github.com/pavankumarkkk/snakeGame/blob/56f86df6ff4904442ddb9575fd7f7d56d13bef62/Screenshot%202025-08-23%20120437.png)
-![image alt]()
+
+Game Over
+![image alt](https://github.com/pavankumarkkk/snakeGame/blob/75fd6f8ccc23872d6ef8205e3e977e2e231bb73c/Screenshot%202025-08-23%20120858.png)
 
 
 # Controls
